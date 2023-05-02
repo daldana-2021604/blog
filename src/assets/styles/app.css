@@ -1,0 +1,25 @@
+.cabecera{
+    background-color: #10085a;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: #10085a
+}
+
+.cuerpo{
+    background: linear-gradient(to right, #1f0cf6,#5a35fb);
+    border: none;
+    padding: 0%;
+}
+
+footer{
+    background-color: #5a35fb;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 80px;
+}

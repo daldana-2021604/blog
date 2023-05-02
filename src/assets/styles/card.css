@@ -1,0 +1,18 @@
+.cuerpo{
+    background-color: #3019af;
+    color: white
+}
+
+.carta{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.parte-baja{
+    background-color: #3019af;
+}
+
+.cabeza{
+    font-size: 25px;
+}
+
