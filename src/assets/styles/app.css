@@ -1,21 +1,21 @@
 .cabecera{
-    background-color: #10085a;
+    background-color: #000;
     color: white;
     text-align: center;
 }
 
 body{
-    background-color: #10085a
+    background-color: #000
 }
 
 .cuerpo{
-    background: linear-gradient(to right, #1f0cf6,#5a35fb);
+    background-color: #1b1b20;
     border: none;
     padding: 0%;
 }
 
 footer{
-    background-color: #5a35fb;
+    background-color: #36363f;
     display: flex;
     justify-content: center;
 }
